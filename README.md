@@ -6,6 +6,8 @@
 * **Pentest Walkthroughs Project** - [View](https://github.com/JedsadaSinglor/writeup/blob/main/Project/Pentest%20Walkthroughs%20Project/Pentest%20walkthroughs%20Project.pdf)
 * **System Analysis and Design Project** - [View](https://github.com/JedsadaSinglor/writeup/blob/main/Project/System%20Analysis%20and%20Design%20Project/KaoQueue.pdf)
 * **System Security Assessment Project.docx** - [View](https://github.com/JedsadaSinglor/writeup/blob/main/Project/System%20Security%20Assessment/System%20Security%20Assessment%20Project.pdf)
+* **Honeypot Project.docx** - [View](https://github.com/JedsadaSinglor/writeup/tree/main/Project/Honeypot%20Project)
+
 
 
 ## Walkthroughs
