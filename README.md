@@ -9,7 +9,7 @@
 ## MiniProjects
 * **Honeypot Project** - [View](https://github.com/JedsadaSinglor/writeup/tree/main/Project/Honeypot%20Project)
 * **Keylogger Project** - [View](https://github.com/JedsadaSinglor/writeup/tree/main/Project/Keylogger%20Project)
-* **Maleware Analysis Project** - [View](https://github.com/JedsadaSinglor/writeup/tree/main/Project/Maleware%20Analysis%20Project)
+* **Malware Analysis Project** - [View](https://github.com/JedsadaSinglor/writeup/tree/main/Project/Maleware%20Analysis%20Project)
 
 ## Walkthroughs
 * **Buffer Overflow** - [See Walkthroughs](https://github.com/JedsadaSinglor/writeup/blob/main/Walkthroughs/Buffer%20Overflow/buffer%20overflow%20vulnserver%20-%20walkthu.pdf)
